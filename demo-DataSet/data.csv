@@ -1,4 +1,4 @@
-in: shape, in: count, out: polycount, out: volume, out: surface area, img, threeD
+in:shape, in:count, out:polycount, out:volume, out:surfaceArea, img, threeD
 rect, 1, 24, 1346.377935, 748.55129, https://raw.githubusercontent.com/nicoazel/design-explorer-datasets/master/demo-DataSet/thing1.png, https://raw.githubusercontent.com/nicoazel/design-explorer-datasets/master/demo-DataSet/thing1.json
 sphere, 1, 6441, 2279.038921, 837.68474, https://raw.githubusercontent.com/nicoazel/design-explorer-datasets/master/demo-DataSet/thing2.png, https://raw.githubusercontent.com/nicoazel/design-explorer-datasets/master/demo-DataSet/thing2.json
 box+sphere, 2, 810, 784.050405, 629.225534, https://raw.githubusercontent.com/nicoazel/design-explorer-datasets/master/demo-DataSet/thing3.png, https://raw.githubusercontent.com/nicoazel/design-explorer-datasets/master/demo-DataSet/thing3.json
