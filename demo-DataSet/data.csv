@@ -1,0 +1,5 @@
+in: shape	in: count	out: polycount	out: volume	out: surface area	img	threeD
+rect	1	24	1346.377935	748.55129	thing1.png	thing1.json
+sphere	1	6441	2279.038921	837.68474	thing2.png	thing2.json
+box+sphere	2	810	784.050405	629.225534	thing3.png	thing3.json
+box+sphere	2	2628	1712.208406	956.09601	thing4.png	thing4.json
